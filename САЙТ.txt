@@ -1,0 +1,628 @@
+<html lang="uk"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Інверторний зварювальний апарат SCHWARTZMANN</title>
+	<script src="https://connect.facebook.net/signals/config/2436962410026939?v=2.9.182&amp;r=stable&amp;domain=schwartzman.scaletools.site&amp;hme=b8122d5d96cd6f542162ba4f497489972d1ebe228d24c39d34f560e30ae932ce&amp;ex_m=70%2C122%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C173%2C176%2C188%2C184%2C185%2C187%2C29%2C101%2C53%2C77%2C186%2C168%2C171%2C181%2C182%2C189%2C132%2C41%2C191%2C192%2C34%2C144%2C15%2C50%2C197%2C196%2C134%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C169%2C172%2C141%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<meta name="description" content="Інверторний зварювальний апарат SCHWARTZMANN! Доставка по всій Україні">
+	<meta name="viewport" content="width=480">
+	<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="css\reset.css">
+	<link rel="stylesheet" type="text/css" href="css\styles.css?3.0">
+
+	<link rel="stylesheet" href="css\AvenirNextCyr.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link rel="stylesheet" href="css\AvenirNextCyr.css">
+	</noscript>
+	<link rel="stylesheet" type="text/css" href="css\owl.carousel.min.css">
+
+	<meta property="og:title" content="Інверторний зварювальний апарат SCHWARTZMANN">
+	<meta property="og:description" content="Акційна ціна! Доставка по всій Україні">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="">
+	<!-- <meta property='og:image' content='img/a'> -->
+	<style>
+		.politika {
+			margin: 0 auto 15px;
+			font-size: 16px;
+			width: 390px;
+			color: #000;
+			padding: 10px;
+			position: relative;
+		}
+
+		.custom-checkbox {
+			width: 385px !important;
+			height: 45px;
+			position: absolute;
+			top: 0;
+			left: 0;
+			transform: scale(1);
+			animation: pulse 2s infinite;
+			border-radius: 10px;
+			z-index: 1 !important;
+			opacity: 1 !important;
+		}
+
+		.custom-checkbox:checked {
+			animation: none;
+		}
+
+		@keyframes pulse {
+			0% {
+				box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+			}
+
+			70% {
+				box-shadow: 0 0 0 5px rgba(0, 0, 0, 0);
+			}
+
+			100% {
+				box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+			}
+		}
+
+		input.field {
+			background: #fbfbfb !important;
+			padding: 0 !important;
+			text-align: center;
+		}
+
+		.radio-select {
+			display: flex;
+			justify-content: flex-start;
+			column-gap: 10px;
+			margin-left: 20px;
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+
+		.radio-item {
+			position: relative;
+		}
+
+		.custom-radio {
+			position: absolute;
+			z-index: -1;
+			opacity: 0;
+		}
+
+		.custom-radio+label {
+			display: flex;
+			align-items: center;
+			user-select: none;
+			margin: 3px 0;
+			padding: 5px 0 5px 10px;
+			cursor: pointer;
+			width: auto;
+		}
+
+		.custom-radio+label::before {
+			content: '';
+			width: 20px;
+			height: 20px;
+			border: 1px solid #D0CFCF;
+			border-radius: 50%;
+			margin-right: 8px;
+			box-sizing: border-box;
+		}
+
+		.custom-radio+label div {
+			display: flex;
+			width: 390px;
+		}
+
+		.custom-radio+label span {
+			width: 160px;
+			text-align: center;
+			font-weight: 700;
+			font-size: 19px;
+			color: #444;
+		}
+
+		.custom-radio:checked+label {
+			border-radius: 7px;
+			outline: 1px solid #222
+		}
+
+		.custom-radio:checked+label::before {
+			border-color: #222;
+		}
+
+		.custom-radio:checked+label::after {
+			content: '';
+			position: absolute;
+			left: 15px;
+			width: 10px;
+			height: 10px;
+			background: #656565;
+			border-radius: 50%;
+			box-sizing: border-box;
+		}
+	</style>
+
+	<!-- Meta Pixel Code -->
+	<script>
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq) return; n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+			n.queue = []; t = b.createElement(e); t.async = !0;
+			t.src = v; s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '2436962410026939');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=2436962410026939&ev=PageView&noscript=1" /></noscript>
+</head>
+
+<body>
+	<div class="main_wrapper">
+
+		<!-- header 3 -->
+		<header class="offer_section offer3">
+			<div class="title_block">
+				<h1 class="main_title">Інверторний зварювальний апарат SCHWARTZMANN
+				</h1>
+			</div>
+			<div class="image_block">
+				<img class="offer_image" src="img/nv.png" alt="Інверторний зварювальний апарат SCHWARTZMANN">
+				<!-- <div class="discount_block">
+					<div class="value">-
+						35%
+					</div>
+					<div class="text">знижка</div>
+				</div> -->
+			</div>
+			<div class="benefits_list clearfix">
+				<div class="benefit_item">Офіційна гарантія 2 роки</div>
+				<div class="benefit_item">Швидка доставка</div>
+				<div class="benefit_item">Оплата при отриманні</div>
+			</div>
+			<div class="price_block clearfix">
+				<div class="price_item old">
+					<div class="text">Звичайна ціна:</div>
+					<div class="value">
+						3590 грн
+					</div>
+				</div>
+				<div class="price_item new">
+					<div class="text">Ціна зі знижкою:</div>
+					<div class="value">
+						1590 грн
+					</div>
+				</div>
+			</div>
+			<!-- <ul>
+				<li><b>Потуність:</b>2000 Вт</li>
+				<li><b>Робочий тиск:</b> 197 Атмосфер</li>
+				<li><b>Продуктивність:</b> 300 л/год</li>
+			</ul> -->
+
+			<div class="timer">
+				<p>Пропозиція діє:</p>
+				<div class="timer_container">
+					<div class="timer_block">
+						<div class="count hours"><span>2</span><span>3</span></div>
+						<div class="text">годин</div>
+					</div>
+					<div class="timer_block">
+						<div class="count minutes"><span>3</span><span>1</span></div>
+						<div class="text">хвилин</div>
+					</div>
+					<div class="timer_block">
+						<div class="count seconds"><span>5</span><span>7</span></div>
+						<div class="text">секунд</div>
+					</div>
+				</div>
+			</div>
+			<a href="#order_form" class="button">Замовити зі знижкою</a>
+		</header>
+
+		<section class="benefits_section">
+			<h2 class="title">Інверторний зварювальний апарат SCHWARTZMANN
+			</h2>
+			<div class="benefits_list2">
+				<div class="benefit_item">
+					<img class="img" src="img/01.png" alt="Інверторний зварювальний апарат SCHWARTZMANN переваги">
+					<div class="text_block">
+						<h4>ПРО ПРОДУКТ</h4>
+						<p>
+							Апарат має різні функції, які безумовно впливають на якість зварювання - Інверторний зварювальний апарат
+							побудований
+							таким чином, що він може поєднувати різні методи зварювання.
+						</p>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<img class="img" src="img/02.png" alt="Інверторний зварювальний апарат SCHWARTZMANN переваги">
+					<div class="text_block">
+						<h4>Ергономічність</h4>
+						<p>
+							Обладнання, яке ми пропонуємо, відрізняється міцною конструкцією, а це означає, що зварювальник довго
+							виконуватиме свою
+							роль і не підведе під час роботи.
+						</p>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<img class="img" src="img/03.png" alt="Інверторний зварювальний апарат SCHWARTZMANN переваги">
+					<div class="text_block">
+						<h4>Практичність</h4>
+						<p>
+							Інверторний зварювальний апарат з функцією гарячого старту відрізняється тим, що працює за сучасною
+							технологією IGBT, що
+							впливає на тривалий термін служби та надійність апарату.
+						</p>
+					</div>
+				</div>
+			</div>
+			<a href="#order_form" class="button">Замовити зі знижкою</a>
+		</section>
+
+		<!-- <section class="video_section description_section">
+			<h2 class="title">Відео-огляд пристрою</h2>
+			<div class="video_block">
+				<div class="youtube" id="Z9xSc4JE4os"></div>
+			</div>
+		</section> -->
+
+		<section class="description-section">
+			<h2 class="title">Основні переваги:</h2>
+			<img src="img/04.png">
+			<p style="text-align: start;" class="text">
+				✅ - Гарячий старт (HOT START) - що полягає в запобіганні прилипання електрода до зварюваного матеріалу;<br>
+				✅ - Антипригарний полягає в можливості від'єднання електрода від матеріалу;<br>
+				✅ - ARC force(що оптимізує динаміку зварювальної дуги);<br>
+			</p>
+		</section>
+
+
+		<!-- /benefits -->
+		<section class="offer_section">
+			<h2 class="title">Технічні характеристики:</h2>
+			<img src="img/05.png">
+			<ul>
+				<li><b>Напруга живлення:</b> 220В +/-15% | 50-60 Гц</li>
+				<li><b>Напруга холостого ходу:</b> 30-50В</li>
+				<li><b>Діапазон вихідного струму:</b> 20-350А</li>
+				<li><b>ККД:</b> 85%</li>
+				<li><b>Гарячий старт:</b> ТАК</li>
+				<li><b>Антипригарний:</b> ТАК</li>
+				<li><b>Сила дуги: </b> ТАК</li>
+				<li><b>Розширений IGBT:</b>ТАК</li>
+				<li><b>Можливість зварювання електродами діаметром :</b> 1-4мм</li>
+				<li><b>Охолодження:</b> інтелектуальний вентилятор</li>
+				<li><b>Ступінь захисту:</b> IP21S</li>
+			</ul>
+
+
+			<section class="reviews4_section">
+				<h2 class="title">Відгуки покупців</h2>
+				<div class="reviews_stats_block">
+					<p><b>97%</b> покупців рекомендують цей товар</p>
+					<div class="line"></div>
+				</div>
+
+				<div class="reviews_list4 owl-carousel owl-loaded">
+					
+					
+					
+				<div class="owl-stage-outer owl-height" style="height: 345px;"><div class="owl-stage" style="transform: translate3d(-880px, 0px, 0px); transition: all; width: 3080px;"><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev2.png">
+								<!-- <img src="img/rev1.png"> -->
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Купив цей інверторний зварювальний апарат для гаража, і не розчарувався. Потужний, простий у
+								налаштуванні, швидко
+								освоїв всі функції. Тепер усі дрібні ремонти роблю сам, не звертаючись до майстрів. Радий, що обрав саме
+								SCHWARTZMANN.
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev3.png">
+								<div class="text">
+									<div class="a-name">Віталій</div>
+									<div class="stars"></div>
+									<div class="a-date">тиждень тому</div>
+								</div>
+
+							</div>
+							<p>
+								Надійний апарат! SCHWARTZMANN легко запускається, зварювальні шви виходять відмінними, не перегрівається
+								при тривалій
+								роботі. Компактний і зручний для перенесення. Я задоволений покупкою, вартий кожної витраченої гривні.
+							</p>
+						</div>
+					</div></div><div class="owl-item active" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev1.png">
+								<!-- <img src="img/rev2.png"> -->
+								<div class="text">
+									<div class="a-name">Олексій</div>
+									<div class="stars"></div>
+									<div class="a-date">2 години тому</div>
+								</div>
+
+							</div>
+							<p>
+								Чудовий зварювальний апарат! SCHWARTZMANN перевершив мої очікування: легкий, компактний, ідеально
+								підходить для
+								домашнього використання. Робота з ним приносить задоволення, шви виходять рівними та якісними.
+								Однозначно рекомендую!
+							</p>
+						</div>
+					</div></div><div class="owl-item" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev2.png">
+								<!-- <img src="img/rev1.png"> -->
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Купив цей інверторний зварювальний апарат для гаража, і не розчарувався. Потужний, простий у
+								налаштуванні, швидко
+								освоїв всі функції. Тепер усі дрібні ремонти роблю сам, не звертаючись до майстрів. Радий, що обрав саме
+								SCHWARTZMANN.
+							</p>
+						</div>
+					</div></div><div class="owl-item" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev3.png">
+								<div class="text">
+									<div class="a-name">Віталій</div>
+									<div class="stars"></div>
+									<div class="a-date">тиждень тому</div>
+								</div>
+
+							</div>
+							<p>
+								Надійний апарат! ХУЙЛО ЕБАНОЕ легко запускається, зварювальні шви виходять відмінними, не перегрівається
+								при тривалій
+								роботі. Компактний і зручний для перенесення. Я задоволений покупкою, вартий кожної витраченої гривні.
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev1.png">
+								<!-- <img src="img/rev2.png"> -->
+								<div class="text">
+									<div class="a-name">Олексій</div>
+									<div class="stars"></div>
+									<div class="a-date">2 години тому</div>
+								</div>
+
+							</div>
+							<p>
+								Чудовий зварювальний апарат! SCHWARTZMANN перевершив мої очікування: легкий, компактний, ідеально
+								підходить для
+								домашнього використання. Робота з ним приносить задоволення, шви виходять рівними та якісними.
+								Однозначно рекомендую!
+							</p>
+						</div>
+					</div></div><div class="owl-item cloned" style="width: 440px;"><div class="review_item">
+						<div class="text_block">
+							<div class="author_info">
+								<img class="author-photo" src="img/rev2.png">
+								<!-- <img src="img/rev1.png"> -->
+								<div class="text">
+									<div class="a-name">Григорій</div>
+									<div class="stars"></div>
+									<div class="a-date">1 день тому</div>
+								</div>
+
+							</div>
+							<p>
+								Купив цей інверторний зварювальний апарат для гаража, і не розчарувався. Потужний, простий у
+								налаштуванні, швидко
+								освоїв всі функції. Тепер усі дрібні ремонти роблю сам, не звертаючись до майстрів. Радий, що обрав саме
+								SCHWARTZMANN.
+							</p>
+						</div>
+					</div></div></div></div><div class="owl-nav"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+			</section>
+
+			<section class="order_steps_section">
+				<h2 class="title">Як замовити?</h2>
+				<div class="order_steps_list1 clearfix">
+					<div class="step_item">
+						<h4>Заявка</h4>
+						<p>Залишаєте заявку на нашому сайті (заповнити форму внизу сайта)</p>
+					</div>
+					<div class="step_item">
+						<h4>Дзвінок</h4>
+						<p>Наш менеджер уточнює деталі замовлення</p>
+					</div>
+				</div>
+
+			</section>
+			<section class="offer_section offer3">
+				<div class="title_block">
+					<h3 class="main_title">Інверторний зварювальний апарат SCHWARTZMANN
+					</h3>
+				</div>
+				<div class="image_block">
+					<img class="offer_image" src="img/nv.png" alt="Інверторний зварювальний апарат SCHWARTZMANN">
+					<!-- <div class="discount_block">
+					<div class="value">-
+						35%
+					</div>
+					<div class="text">знижка</div>
+				</div> -->
+				</div>
+				<div class="benefits_list clearfix">
+					<div class="benefit_item">Офіційна гарантія 2 роки</div>
+					<div class="benefit_item">Швидка доставка</div>
+					<div class="benefit_item">Оплата при отриманні</div>
+				</div>
+				<div class="price_block clearfix">
+					<div class="price_item old">
+						<div class="text">Звичайна ціна:</div>
+						<div class="value">
+							3590 грн
+						</div>
+					</div>
+					<div class="price_item new">
+						<div class="text">Ціна зі знижкою:</div>
+						<div class="value">
+							1590 грн
+						</div>
+					</div>
+				</div>
+				<div class="timer">
+					<p>Пропозиція діє:</p>
+					<div class="timer_container">
+						<div class="timer_block">
+							<div class="count hours"><span>2</span><span>3</span></div>
+							<div class="text">годин</div>
+						</div>
+						<div class="timer_block">
+							<div class="count minutes"><span>3</span><span>1</span></div>
+							<div class="text">хвилин</div>
+						</div>
+						<div class="timer_block">
+							<div class="count seconds"><span>5</span><span>7</span></div>
+							<div class="text">секунд</div>
+						</div>
+					</div>
+				</div>
+				<br>
+
+
+				<form id="order_form" class="order_form" action="onebox/send.php" method="POST" name="order-form">
+
+
+					<input class="field" type="text" name="name" placeholder="Ваше ім'я" required="">
+					<input class="field" type="tel" name="phone" minlength="10" maxlength="15" placeholder="Ваш телефон" required="">
+
+					<input type="hidden" name="price" value="1590">
+					<input type="hidden" name="product_name" value="Інверторний зварювальний апарат SCHWARTZMANN">
+					<input type="hidden" name="sku" value="Шварц1010">
+					<input type="hidden" name="source" value="Buyer-Микола">
+					<input type="hidden" name="pixel_id" value="2436962410026939">
+
+					<div class="politika">
+						<input id="data1" class="custom-checkbox" type="checkbox" required="">
+						<label for="data1">Я підтверджую, дані заповнено - правильно</label>
+					</div>
+					<img src="img/loading.gif" alt="" class="img-loading">
+					<button class="button">Замовити зі знижкою</button>
+				</form>
+			</section>
+
+			<!-- footer -->
+
+			<footer class="footer_section">
+				<div style="font-size:13px;text-align: center;">
+					ТзОВ "Instrumentsua" Львів, вул. Довженка 2А © 2009-2024 E-mail: instumentsua@gmail.com <br>
+					<a style="color:inherit;" href="politics.html">Політика конфеденційності</a>
+					<br>
+					<a style="color:inherit;" href="agreement.html">Угода користувача</a>
+					<br>
+					<a style="color:inherit;" href="garantiya.html">Умови гарантії та повернення</a>
+					<br>
+					Всі права захищені © 2005-2024
+
+				</div>
+			</footer>
+			<div class="yvedw">
+				<div class="yved yvedf1" style="display: none;">Разом з Вами на сайті 7 відвідувачів</div>
+				<div class="yved yvedf2" style="display: none;">Корник Ігор, м.Львів, залишила заявку на зворотній дзвінок</div>
+				<div class="yved yvedf1" style="display: none;">Володимир Степанець, м.Київ, оформив замовлення</div>
+				<div class="yved yvedf2" style="display: none;">Степан Рудик, м.Косів, залишив заявку на зворотній дзвінок</div>
+				<div class="yved yvedf1" style="display: none;">Разом з Вами на сайті 6 відвідувачів</div>
+				<div class="yved yvedf1">Разом з Вами на сайті 10 відвідувачів</div>
+				<div class="yved yvedf1">Музика Олег, м.Івано-Франківськ, оформила замовлення</div>
+				<div class="yved yvedf1">Разом з Вами на сайті 9 відвідувачів</div>
+			</div>
+
+			<style>
+				.yved {
+					position: fixed;
+					top: 10px;
+					left: 50%;
+					transform: translateX(-50%);
+					width: 300px;
+					text-align: center;
+					color: white;
+					padding: 10px;
+					font-size: 15px;
+					border-radius: 10px;
+					display: none;
+					z-index: 9999;
+				}
+
+				.yvedf1 {
+					background-color: #363636;
+				}
+
+				.yvedf2 {
+					background-color: #FF5A00;
+				}
+
+				.img-loading {
+					display: none;
+					width: 50px;
+					margin: 0 auto;
+				}
+			</style>
+			<script src="js/jquery.min.js"></script>
+			<script src="js\previewYouTube.js"></script>
+			<script src="js\owl.carousel.min.js"></script>
+			<script src="js\scripts.js?1.0"></script>
+			<script type="text/javascript" src="js/maskedinput.js"></script>
+			<script>
+				$(document).ready(function () {
+					var i = 0;
+
+					function yved() {
+						i = 1;
+						$('.yved:nth-child(' + i + ')').fadeIn(500).delay(7000).fadeOut(500);
+					}
+					setTimeout(function () {
+						setInterval(
+							function () {
+								i = i + 1;
+								if (i > 7) i = 1;
+								$('.yved:nth-child(' + i + ')').fadeIn(500).delay(7000).fadeOut(500);
+							}, 30000);
+						yved();
+					}, 10000);
+				});
+			</script>
+			<script>
+				$(".order_form").submit(function () {
+					$(this).children(".button").hide();
+					$('.img-loading').css('display', 'block');
+				});
+			</script>
+
+			<!-- /scripts -->
+
+
+</section>
+</div>
+</body>
+</html>
+
